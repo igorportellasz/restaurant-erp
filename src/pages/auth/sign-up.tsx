@@ -90,7 +90,7 @@ export function SignUp() {
 
             <Button
               disabled={isSubmitting}
-              className="w-full bg-red-600 hover:bg-red-700"
+              className="text-foreground w-full bg-red-600 hover:bg-red-700"
               type="submit"
             >
               Finalizar cadastro
